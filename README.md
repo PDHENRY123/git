@@ -1,3 +1,1 @@
-# git
-
-Initial project repository.
+训练文件
